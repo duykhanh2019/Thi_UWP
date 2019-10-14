@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj": {}
+    "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj": {
+    "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj",
+        "projectUniqueName": "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj",
         "projectName": "Thi_UWP",
-        "projectPath": "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj",
+        "projectPath": "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP.csproj",
         "packagesPath": "C:\\Users\\khanhSky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\Thi_UWP\\obj\\",
+        "outputPath": "C:\\Users\\khanhSky\\Desktop\\Thi_UWP\\Thi_UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
